@@ -16,7 +16,7 @@ Windows Defender may flag this file as a virus. This is a **false positive** cau
 
 1. **Extract the RAR file first** (Do not run directly from inside the RAR)
 
-2. Double-click `UltraBot 7.3.2 by Nexora.exe` to run the program.
+2. Double-click `UltraBot (version) Nexora.exe` to run the program.
 
 3. The bot will ask you two questions:
    - Enter YouTube Video ID:  
