@@ -1,6 +1,6 @@
 # UltraBot - YouTube Live Chat Controller
 
-(this is a archive)
+(this is a archive) (7.3.2 was removed cuz the owner said so.)
 
 ## ⚠️ IMPORTANT NOTICE
 
