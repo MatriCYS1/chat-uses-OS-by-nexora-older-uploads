@@ -1,6 +1,6 @@
 # UltraBot - YouTube Live Chat Controller
 
-(this is a acrhive)
+(this is a archive)
 
 ## ⚠️ IMPORTANT NOTICE
 
